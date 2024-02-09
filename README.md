@@ -1,5 +1,5 @@
 - 👋 Hola, Soy Leonardo
-- 👀 Estoy interesadi en programación
+- 👀 Estoy interesado en programación
 - 🌱 Estoy actualmente aprendiendo python
 - 💞️ Quiero colaborar con cualquiera que quiera hacer cosas divertidas
 - 📫 Me pueden contactar con mi correo
